@@ -21,13 +21,14 @@
         android:layout_gravity="center"
         android:layout_margin="10px"
         android:onClick="btnActivityClick"
-        android:text="Set View !!"/>
+        android:text="Set View !!"
+        android:textColor="#fff"
+        android:background="@drawable/btn"/>
 
     <FrameLayout
         android:id="@+id/ui_container"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_weight="1"/>
-
 
 </LinearLayout>

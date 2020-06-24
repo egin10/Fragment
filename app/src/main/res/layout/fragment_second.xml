@@ -21,6 +21,8 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_margin="10dp"
-        android:text="Call Other Activity"/>
+        android:text="Call Other Activity"
+        android:background="@drawable/btn"
+        android:textColor="#fff"/>
 
 </LinearLayout>
